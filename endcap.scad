@@ -3,7 +3,7 @@
 // https://github.com/bendetat/lehi-roller
 
 
-endcap(20, 2, 3);
+endcap(20, 1, 0);
 
 module endcap(intSize, wallThickness, holeDiameter) {
 	holeRadius = holeDiameter / 2;

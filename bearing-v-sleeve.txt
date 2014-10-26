@@ -1,0 +1,10 @@
+Bearing V-sleeve
+================
+
+A V profile sleeve to suit a 608 bearing so that it runs smoothly in a T-Slot extrusion. The extrusion I'm using has a ~5.3 mm slot which won't suit a 608 bearing without a sleeve. The script is customisable so it can be adjusted to fit most bearings.
+
+Slice: Spiral vase (high quality)
+Feedrate: 80
+Flowrate: 100
+
+Spiral vase makes a hollow, single shell sleeve which is lightweight and slightly flexible and seems to be fairly strong. I'll revisit this if it doesn't turn out to be strong enough.
